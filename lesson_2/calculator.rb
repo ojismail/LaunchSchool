@@ -24,5 +24,5 @@ else
     "Invalid" 
 end 
 
-puts result 
+puts "Congrats here is your #{result}" 
 
