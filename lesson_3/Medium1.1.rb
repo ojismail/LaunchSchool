@@ -1,0 +1,1 @@
+10.times { |number| puts (" " * number) + "The Flinstones Rock!"}
